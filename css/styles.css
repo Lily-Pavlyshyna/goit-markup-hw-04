@@ -427,6 +427,7 @@ button {
 .footer-container-logo {
   display: flex;
   flex-direction: column;
+  margin-right: 120px;
 }
 .footer-contacts-container {
   display: flex;
