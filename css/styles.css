@@ -444,6 +444,7 @@ button {
   color: #fff;
   margin-bottom: 16px;
   font-weight: 500;
+  align-self: flex-start;
 }
 .footer-contacts-list {
   display: flex;
