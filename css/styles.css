@@ -419,7 +419,6 @@ button {
 .footer-container {
   display: flex;
   flex-direction: row;
-  column-gap: 120px;
   align-items: baseline;
 
   margin-right: 120px;
